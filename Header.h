@@ -33,5 +33,11 @@ void E21(void);
 void E22(void);
 void E23(void);
 void E24(void);
+void E25(void);
+void E26(void);
+void E27(void);
+void E28(void);
+void E29(void);
+void E30(void);
 void E34(void);
 #endif
