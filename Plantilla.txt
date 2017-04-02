@@ -1,0 +1,14 @@
+#include "Header.h"
+/*Aqui va el Nombre del Ejercicion*/
+void EXX(void){
+system("cls");
+
+system("pause");
+system("cls");	
+}
+XX /*Numero del Ejercicio*/
+
+void EXX(void); /*Header*/
+
+case XX: EXX(); /*switch*/
+break;
