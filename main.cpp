@@ -5,8 +5,8 @@
 #include <stdio.h>
 #include <math.h>
 #include <windows.h>
-#include "Header.h" //Cabecera Personalizada
-
+#include "Header.h" 
+#include "Header2.h" 
 using namespace std;
 
 int main(void) {
@@ -129,7 +129,15 @@ int main(void) {
 		break;
 		case 30: E30();
 		break;
-		case 34:E34();
+		case 31: E31();
+		break;
+		case 32: E32();
+		break;
+		case 33: E33();
+		break;
+		case 34: E34();
+		break;
+		case 35: E35();
 		break;
 		default:;
 		}
