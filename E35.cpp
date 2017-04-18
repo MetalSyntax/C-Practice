@@ -1,13 +1,5 @@
 #include "Header.h"
-/**35.	Dado a, b determinar el valor de la división entera y el resto de la división entera de a, b (utilizando los operadores de div. o Mod) 
-Escribir "Insertar Valor A"
-Leer A
-Escribir "Insertar Valor B"
-Leer B
-C<-A/B
-D<-A mod B 
-Escribir "El valor de la division es:",C "Y el resto",D
-*/
+/**35.	Dado a, b determinar el valor de la división entera y el resto de la división entera de a, b (utilizando los operadores de div. o Mod) */
 void E35(void){
 	system("cls");
 	int a,b,c,d;

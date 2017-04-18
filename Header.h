@@ -44,4 +44,13 @@ void E32(void);
 void E33(void);
 void E34(void);
 void E35(void);
+void E36(void);
+void E37(void);
+void E38(void);
+void E39(void);
+void E40(void);
+void E41(void);
+void E42(void);
+void E43(void);
+void E44(void);
 #endif

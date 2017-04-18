@@ -139,6 +139,24 @@ int main(void) {
 		break;
 		case 35: E35();
 		break;
+		case 36: E36();
+		break;
+		case 37: E37();
+		break;
+		case 38: E38();
+		break;
+		case 39: E39();
+		break;
+		case 40: E40();
+		break;
+		case 41: E41();
+		break;
+		case 42: E42();
+		break;
+		case 43: E43();
+		break;
+		case 44: E44();
+		break;
 		default:;
 		}
 	} while (m != 256);
