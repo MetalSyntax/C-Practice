@@ -1,13 +1,9 @@
 # C++ Practice
+Derechos de Autor (C) 2014-2018 Wonder Diaz
 
-Practicas de Algoritmos en C++ Agrupadas en un Proyecto creado con el IDE Zinjai
+Practicas de Algoritmos en C++ Agrupadas en un Proyecto creado con el IDE Zinjai.
 Este Proyecto se realiza con fines educativos, con el fin de desarrollar codigos simples.
-Cualquier mejora o error encontrado notificarlo
-
-## Donate
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/MetalSyntax)
-
+Cualquier mejora o error encontrado notificarlo.
 
 ## Registro de cambios
 
@@ -78,3 +74,7 @@ Sobresaliente (8 < o = N)
 48.	Cierta universidad esta interesada en saber la calificación media de los estudiantes que recibieron castellano durante un semestre. Desea saber también el número total de estudiantes que reprobaron. Calcule lo anterior, teniendo en cuenta que se leen las calificaciones.
 49.	Leer una serie de pares de números y obtener de cada par el número mayor. Imprima un mensaje especial si los números son de igual valor.
 50.	Una librería estima los precios de sus libros de la siguiente forma: el precio básico de un libro es de 5.000 Bs. mas 200 Bs. por pagina. Sin embargo, si el número de páginas excede de 550 el precio se incrementa en otros 750bs. Se debe leer el código del libro y el número de páginas. Se requiere calcular e imprimir el código y el precio de cada uno de los libros.
+
+## Donacion
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/MetalSyntax)
